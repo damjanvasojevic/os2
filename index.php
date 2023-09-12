@@ -8,6 +8,6 @@
 <body>
     <h1>Kontinualna integracija u Jenkins okruženju</h1>
     <p>Dobrodošli na stranicu o kontinualnoj integraciji u Jenkins okruženju.</p>
-    <p>Promena 1</p>
+    <p>Promena </p>
 </body>
 </html>
